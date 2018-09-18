@@ -1,0 +1,15 @@
+{
+	"application": {
+		"token": "",
+		"game": "",
+		"status": "dnd",
+		"afk": true
+	},
+	"activity": {
+		"channel_id": "",
+		"enabled": true
+	},
+	"command": {
+		"prefix": "!"
+	}
+}
